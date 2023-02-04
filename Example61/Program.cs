@@ -12,10 +12,10 @@ int InputInt(string massage)
 int[] GenerateArray(int len)
 {
     int[] array = new int[len];
-    Random rnd = new Random();
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = rnd.Next(-10, 10);
+        Console.Write($"Введите число {i + 1} > ");
+        array[i] = int.Parse(Console.ReadLine());
     }
     return array;
 }
@@ -41,7 +41,7 @@ int SumNumber(int[] array )
     return sum;
 }
 
-int number = InputInt("Введите число >");
+int number = InputInt("Введите количество чисел >");
 int[] array = GenerateArray(number);
 PrintArray(array);
 System.Console.WriteLine($"Количество положительный чисел = {SumNumber(array)}");
