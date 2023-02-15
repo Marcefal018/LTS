@@ -1,0 +1,15 @@
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\bin\Debug\net6.0\Example92.exe
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\bin\Debug\net6.0\Example92.deps.json
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\bin\Debug\net6.0\Example92.runtimeconfig.json
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\bin\Debug\net6.0\Example92.dll
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\bin\Debug\net6.0\Example92.pdb
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\Example92.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\Example92.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\Example92.AssemblyInfoInputs.cache
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\Example92.AssemblyInfo.cs
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\Example92.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\Example92.dll
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\refint\Example92.dll
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\Example92.pdb
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\Example92.genruntimeconfig.cache
+C:\Users\Huawei\OneDrive\Документы\Практика\Example92\obj\Debug\net6.0\ref\Example92.dll
